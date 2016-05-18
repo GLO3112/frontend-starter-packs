@@ -22,4 +22,4 @@ gulp.task('watch', function() {
     gulp.watch(['./**/*.scss'], ['sass']);
 });
 
-gulp.task('default', ['ts'], function() {});
+gulp.task('default', ['ts', 'sass'], function() {});

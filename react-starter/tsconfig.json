@@ -8,9 +8,7 @@
     "outDir": "dist"
   },
   "files": [
-    "./typings/index.d.ts",
-    "src/components/HelloWorld.tsx",
-    "src/Index.tsx"
+    "./typings/index.d.ts"
   ],
   "exclude": [
     "node_modules"
