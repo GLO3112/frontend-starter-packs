@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "jsx": "react",
+    "outDir": "dist"
+  },
+  "files": [
+    "./typings/index.d.ts",
+    "src/typings.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
