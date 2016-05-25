@@ -1,0 +1,33 @@
+{
+  "name": "glo-3112-react-starter",
+  "version": "0.0.0",
+  "description": "Angular 2, TypeScript and Webpack",
+  "author": "wfortin & vseguin",
+  "scripts": {
+    "postinstall": "typings install"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "2.0.0-rc.1",
+    "@angular/compiler": "2.0.0-rc.1",
+    "@angular/core": "2.0.0-rc.1",
+    "@angular/http": "2.0.0-rc.1",
+    "@angular/platform-browser": "2.0.0-rc.1",
+    "@angular/platform-browser-dynamic": "2.0.0-rc.1",
+    "@angular/router-deprecated": "2.0.0-rc.1",
+    "reflect-metadata": "0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "zone.js": "0.6.12"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "1.14.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
