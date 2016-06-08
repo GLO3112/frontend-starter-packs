@@ -7,7 +7,7 @@ var webpack = require('webpack-stream');
 gulp.task('ts', function() {
     return gulp.src('src/Index.tsx')
         .pipe(webpack(config))
-        .pipe(gulp.dest('dist/js'));
+        .pipe(gulp.dest('.'));
 });
 
 gulp.task('sass', function() {
