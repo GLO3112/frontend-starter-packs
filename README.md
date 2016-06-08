@@ -10,6 +10,8 @@ Ces packs sont fournis pour vous permettre de commencer votre développement rap
 
 ## Prérequis
 
+Les packs utilisent les librairies suivantes:
+
 * [node.js et npm](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/) `npm install -g typescript`
 * [Typings](https://github.com/typings/typings) `npm install -g typings`
