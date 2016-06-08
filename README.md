@@ -14,9 +14,9 @@ Les packs utilisent les librairies suivantes:
 
 ## Node.js et npm
 ### Installer Node.js
-* Windows : http://nodejs.org/download/
-* Mac : http://nodejs.org/download/
-* Ubuntu 14.04 (pour autre version linux : [Documentation Node Linux](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
+* [Windows](http://nodejs.org/download/)
+* [Mac](http://nodejs.org/download/)
+* [Linux](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
 
 ### TypeScript
 [TypeScript - site officiel](https://www.typescriptlang.org/) sera le langage de prédilection dans le cours.
