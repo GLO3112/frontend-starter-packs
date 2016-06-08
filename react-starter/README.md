@@ -16,8 +16,8 @@ npm install
 gulp
 ```
 
-# Éxécuter
+# Exécuter
 
-Ouvrir `index.html` avec le serveur intégré de webstorm.
+Ouvrir `index.html` avec le serveur intégré de WebStorm.
 Le message `Hello GLO-3112 WEB!` devrais s'afficher dans votre navigateur, vous êtes prêt à développer!
 
