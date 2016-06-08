@@ -33,6 +33,9 @@ Ressources importantes:
 npm install -g typings
 ```
 
+#### Webstorm
+L'IDE [WebStorm](https://www.jetbrains.com/webstorm/) sera utilisé pour corriger vos travaux: [license étudiante gratuite](https://www.jetbrains.com/student/).
+
 ## Compilation
 
 Les packs se compilent tous avec 3 options:
