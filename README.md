@@ -13,3 +13,12 @@ Ces packs sont fournis pour vous permettre de commencer votre développement rap
 * [node.js et npm](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/) `npm install -g typescript`
 * [Typings](https://github.com/typings/typings) `npm install -g typings`
+
+## Compilation
+
+Les packs se compilent tous avec 3 options:
+* [npm scripts](https://docs.npmjs.com/misc/scripts)
+* [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) `npm install --g gulp-cli`
+* [webpack](https://webpack.github.io/docs/usage.html) `npm install --g webpack`
+
+À vous de choisir la méthode qui vous conviens et de retirer les autres options.
