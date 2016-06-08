@@ -8,17 +8,17 @@
 
 Ces packs vous sont fournis afin de commencer votre développement rapidement. Utilisez-les!
 
-## Prérequis
+# Prérequis
 
 Les packs utilisent les librairies suivantes:
 
-# Node.js et npm
+## Node.js et npm
 ### Installer Node.js
 * Windows : http://nodejs.org/download/
 * Mac : http://nodejs.org/download/
 * Ubuntu 14.04 (pour autre version linux : [Documentation Node Linux](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
 
-# TypeScript
+### TypeScript
 [TypeScript - site officiel](https://www.typescriptlang.org/) sera le langage de prédilection dans le cours.
 ````
 npm install -g typescript
@@ -27,7 +27,7 @@ Ressources importantes:
 * [TypeScript Playgroud](https://www.typescriptlang.org/play/index.html) (compilation de TS vers JS)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 
-# Typings
+### Typings
 [Typings](https://github.com/typings/typings) fournis les définitions des librairies externes pour TypeScript
 ```sh
 npm install -g typings
