@@ -6,7 +6,7 @@
 
 ## Starter packs de développement
 
-Ces packs sont fournis pour vous permettre de commencer votre développement rapidement. Utilisez-les!
+Ces packs vous sont fournis afin de commencer votre développement rapidement. Utilisez-les!
 
 ## Prérequis
 
@@ -23,4 +23,4 @@ Les packs se compilent tous avec 3 options:
 * [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) `npm install --g gulp-cli`
 * [webpack](https://webpack.github.io/docs/usage.html) `npm install --g webpack`
 
-À vous de choisir la méthode qui vous conviens et de retirer les autres options.
+À vous de choisir la méthode qui vous convient et de retirer les autres options.
