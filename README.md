@@ -1,10 +1,10 @@
 # GLO-3112 - Développement avancé d'applications web
 
-* [React Starter](https://github.com/GLO3112/starter-packs/blob/master/react-starter/README.md)
-* [Backbone Starter](https://github.com/GLO3112/starter-packs/blob/master/backbone-starter/README.md)
-* [Angular Starter](https://github.com/GLO3112/starter-packs/blob/master/angular-starter/README.md)
+* [React Starter](https://github.com/GLO3112/frontend-starter-packs/blob/master/react-starter/README.md)
+* [Backbone Starter](https://github.com/GLO3112/frontend-starter-packs/blob/master/backbone-starter/README.md)
+* [Angular Starter](https://github.com/GLO3112/frontend-starter-packs/blob/master/angular-starter/README.md)
 
-## Starter packs de développement
+## Starter packs de développement frontend
 
 Ces packs vous sont fournis afin de commencer votre développement rapidement. Utilisez-les!
 
