@@ -1,6 +1,8 @@
 # angular-starter
 
-> ATTENTION! Ce pack utilise **Angular version 2.0.0-rc.1**, qui est très récent. Il y a donc des risques de changements au cours de la session, peu de documentation disponible, etc. Recommandé seulement aux habitués d'Angular ou aux gens qui désirent plus de challenge.
+> ATTENTION! Ce pack utilise **Angular version 2.0.0-rc.1**, qui est très récent. Il y a donc des risques de changements au cours de la session, peu de documentation disponible, etc. Recommandé seulement aux habitués d'Angular ou aux gens qui désirent plus de challenge. 
+
+> Une alternative au starter pack peut-être le angular-cli (générateur de projet Angular officiel) https://github.com/angular/angular-cli
 
 Avant de commencer, jetez un coup d'oeil aux ressources suivantes:
 * [Angular2 - Documentation](https://angular.io/docs/ts/latest/)
