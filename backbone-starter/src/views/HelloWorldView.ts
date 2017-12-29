@@ -1,3 +1,6 @@
+import * as Backbone from 'backbone'
+import * as _ from 'underscore'
+
 import {HelloWorldModel} from '../models/HelloWorldModel';
 
 export class HelloWorldView extends Backbone.View<HelloWorldModel> {

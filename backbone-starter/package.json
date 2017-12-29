@@ -3,27 +3,31 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "typings install"
-  },
   "author": "wfortin & vseguin",
   "license": "MIT",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp && http-server"
+  },
   "devDependencies": {
+    "@types/backbone": "1.3.42",
+    "@types/jquery": "3.2.17",
+    "@types/underscore": "1.8.6",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.1",
-    "ts-loader": "^0.8.2",
-    "typescript": "^1.8.10",
-    "typings": "^1.0.4",
-    "webpack": "^1.13.0",
-    "webpack-stream": "^3.2.0"
+    "gulp-sass": "3.1.0",
+    "http-server": "0.10.0",
+    "ts-loader": "3.2.0",
+    "typescript": "2.6.2",
+    "webpack": "3.10.0",
+    "webpack-stream": "4.0.0"
   },
   "dependencies": {
     "backbone": "^1.3.3",
-    "ejs-loader": "^0.2.1",
-    "jquery": "^2.2.3",
-    "react": "^15.0.2",
-    "react-dom": "^15.0.2",
+    "ejs-loader": "0.3.0",
+    "jquery": "3.2.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
     "underscore": "^1.8.3"
   }
 }

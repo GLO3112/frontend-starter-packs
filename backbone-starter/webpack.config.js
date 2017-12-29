@@ -6,7 +6,7 @@ module.exports = {
         filename: './dist/js/bundle.js'
     },
     resolve: {
-        extensions: ['', '.webpack.js', '.web.js', '.ts', '.tsx', '.js']
+        extensions: ['.webpack.js', '.web.js', '.ts', '.tsx', '.js']
     },
     plugins: [
         new webpack.ProvidePlugin({
@@ -16,9 +16,9 @@ module.exports = {
         })
     ],
     module: {
-        loaders: [
+        rules: [
             {test: /\.tsx?$/, loader: 'ts-loader'},
-            { test: /\.ejs$/, loader: 'ejs-loader' }
+            {test: /\.ejs$/, loader: 'ejs-loader'}
         ]
     }
 };

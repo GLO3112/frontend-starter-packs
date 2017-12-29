@@ -1,3 +1,5 @@
+import * as Backbone from 'backbone'
+
 export interface HelloWorldModelAttributes {
     firstname: string;
     lastname: string;
