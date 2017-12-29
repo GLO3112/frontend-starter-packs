@@ -1,8 +1,8 @@
 # angular-starter
 
-> ATTENTION! Ce pack utilise **Angular version 2.0.0-rc.1**, qui est très récent. Il y a donc des risques de changements au cours de la session, peu de documentation disponible, etc. Recommandé seulement aux habitués d'Angular ou aux gens qui désirent plus de challenge. 
+> Recommandé seulement aux habitués d'Angular ou aux gens qui désirent plus de challenge. 
 
-> Une alternative au starter pack peut-être le angular-cli (générateur de projet Angular officiel) https://github.com/angular/angular-cli
+> Nous ne fournissons pas de starter pack angular car Google fournis le angular-cli qui permet de générer un projet Angular 2 https://github.com/angular/angular-cli
 
 Avant de commencer, jetez un coup d'oeil aux ressources suivantes:
 * [Angular2 - Documentation](https://angular.io/docs/ts/latest/)
@@ -10,15 +10,3 @@ Avant de commencer, jetez un coup d'oeil aux ressources suivantes:
 # Tutoriels recommandés
 * [Angular2 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html)
 * [Angular2 Fundamentals - egghead.io](https://egghead.io/courses/angular-2-fundamentals)
-
-# Compiler
-
-```sh
-npm install
-gulp
-```
-
-# Exécuter
-
-Ouvrir `index.html` avec le serveur intégré de webstorm.
-Le message `Hello GLO-3112 WEB!` devrais s'afficher dans votre navigateur, vous êtes prêt à développer!
