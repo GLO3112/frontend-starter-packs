@@ -13,11 +13,11 @@ Une chose à savoir, React est le V dans MVC, donc ne comprend pas de logique de
 
 ```sh
 npm install
-gulp
+npm start
 ```
 
 # Exécuter
 
-Ouvrir `index.html` avec le serveur intégré de WebStorm.
+Ouvrir `http://localhost:8080` avec votre navigateur.
 Le message `Hello GLO-3112 WEB!` devrais s'afficher dans votre navigateur, vous êtes prêt à développer!
 

@@ -4,22 +4,27 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "typings install"
+    "build": "webpack",
+    "start": "webpack-dev-server"
   },
   "author": "wfortin & vseguin",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.1",
-    "ts-loader": "^0.8.2",
-    "typescript": "^1.8.10",
-    "typings": "^1.0.4",
-    "webpack": "^1.13.0",
-    "webpack-stream": "^3.2.0"
+    "@types/node": "8.5.5",
+    "@types/react": "16.0.34",
+    "css-loader": "0.28.7",
+    "node-sass": "^4.7.2",
+    "sass-loader": "6.0.6",
+    "style-loader": "0.19.1",
+    "ts-loader": "3.2.0",
+    "typescript": "2.6.2",
+    "typings": "2.1.1",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7",
+    "webpack-stream": "4.0.0"
   },
   "dependencies": {
-    "react": "^15.0.2",
-    "react-dom": "^15.0.2"
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
   }
 }
