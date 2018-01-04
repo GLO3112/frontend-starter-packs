@@ -4,11 +4,24 @@ module.exports = {
         filename: './dist/js/bundle.js'
     },
     resolve: {
-        extensions: ['', '.webpack.js', '.web.js', '.ts', '.tsx', '.js']
+        extensions: ['.ts', '.tsx', '.js', '.jsx', '.css', '.scss']
     },
     module: {
-        loaders: [
-            {test: /\.tsx?$/, loader: 'ts-loader'}
+        rules: [
+            {test: /\.tsx?$/, loader: 'ts-loader'},
+            {test: /\.(css|scss)$/,
+                use: [{
+                    loader: 'style-loader'
+                }, {
+                    loader: 'css-loader', options: {
+                        sourceMap: true
+                    }
+                }, {
+                    loader: 'sass-loader', options: {
+                        sourceMap: true
+                    }
+                }]
+            }
         ]
     }
 };
