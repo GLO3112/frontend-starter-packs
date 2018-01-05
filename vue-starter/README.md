@@ -27,4 +27,4 @@ npm run build
 
 # Exécuter
 
-Le navigateur s'ouvrira à `http://localhost:8080` avec un message concernant Vue.JS, vous êtres prêt à développer!
+Le navigateur s'ouvrira à `http://localhost:8080` avec un message concernant Vue.JS, vous êtes prêt à développer!
