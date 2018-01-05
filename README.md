@@ -20,25 +20,21 @@ Les packs utilisent les librairies suivantes:
 
 #### TypeScript
 [TypeScript - site officiel](https://www.typescriptlang.org/) sera le langage de prédilection dans le cours.
-````
+
+```bash
 npm install -g typescript
 ```
+
 Ressources importantes:
 * [TypeScript Playgroud](https://www.typescriptlang.org/play/index.html) (compilation de TS vers JS)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
-
-#### Typings
-[Typings](https://github.com/typings/typings) fournis les définitions des librairies externes pour TypeScript
-```sh
-npm install -g typings
-```
 
 #### Webstorm
 L'IDE [WebStorm](https://www.jetbrains.com/webstorm/) sera utilisé pour corriger vos travaux: [license étudiante gratuite](https://www.jetbrains.com/student/).
 
 ## Compilation
 
-Les packs se compilent tous avec 3 options:
+Les packs se compilent tous avec une (ou plusieurs) de ces options:
 * [npm scripts](https://docs.npmjs.com/misc/scripts)
 * [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) `npm install --g gulp-cli`
 * [webpack](https://webpack.github.io/docs/usage.html) `npm install --g webpack`
