@@ -20,7 +20,7 @@ npm run dev
 # ou
 npm start
 
-# Généter le build de production avec minification
+# Générer le build de production avec minification
 npm run build
 
 ```
